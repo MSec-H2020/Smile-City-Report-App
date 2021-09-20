@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  Runner
+
+  Created by shiba on 2020/12/02.
+  Copyright © 2020 The Chromium Authors. All rights reserved.
+*/
+"NSCameraUsageDescription" = "Use for taking photos for profile image and post and measuring smiling probability while viewing timeline.";
+"NSLocationWhenInUseUsageDescription" = "You can record a location of your posts if you allow using location.";
+"NSPhotoLibraryUsageDescription" = "Use for choosing a photo for profile image.";
