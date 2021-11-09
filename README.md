@@ -18,7 +18,7 @@ This comment can translate automatically into English, Spanish, and Japanese, so
 In addition, this application connects some web APIs. These are the posting page.  
 When you take a photo with this application, it takes a background camera and front camera.
 The front camera's photo includes your face, so you can delete it freely.
-If you upload the front camera's photo, your smile degree is stored database.
+If you upload the front camera's photo, your smile degree is stored database.  
 <img width="331" alt="スクリーンショット 2021-11-09 23 01 01" src="https://user-images.githubusercontent.com/13267712/140937647-2475aac5-290d-4193-a05f-76a92db159fa.png">  
 
 In addition, you turn on (a) "Ganonymize the scene photo" and (b) "Distribute your report to the IoT Marketplace".
