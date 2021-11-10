@@ -9,7 +9,7 @@ SmileCityReport proposes characteristic communication for users.
 This is the timeline page. The header indicates the theme of a theme.
 many icons are shown the friends of joining the same theme.
 
-The main part of a timeline of the SmileCityReport describes the photo.
+The main part of a timeline of the SmileCityReport describes users' photos.
 Users can share their taken pictures among friends, and users can comment on each post.
 This comment can translate automatically into English, Spanish, and Japanese, so users in a different country can communicate via this application.
 
